@@ -6,18 +6,28 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
-### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) 
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
-[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+[Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
-### [Eggs Benny](writer/eggs-benny.md) 
+### [Eggs Benny](writer/eggs-benny.md)
 
-[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
-### [John Lemon](writer/john-lemon.md) 
+### [Madame Croque](writer/madame-croque.md)
 
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Roast Pork Sandwich](recipe/feb/roast-pork-sandwich.md)
 
-### [Madame Croque](writer/madame-croque.md) 
+## Last Month's Favorites
 
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
+
+[Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
+
+### [Eggs Benny](writer/eggs-benny.md)
+
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
+
+### [Madame Croque](writer/madame-croque.md)
+
+[Roast Pork Sandwich](recipe/feb/roast-pork-sandwich.md)
